@@ -1,0 +1,4 @@
+numpy
+scipy==2.23.0
+pandas
+loguru
